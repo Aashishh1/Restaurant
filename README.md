@@ -11,7 +11,7 @@
 <h3>Build with:</h3>
 
 » HTML & CSS <br>
-» JS Bootstrap
+» JS SCSS
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
